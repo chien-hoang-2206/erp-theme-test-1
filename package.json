@@ -1,6 +1,6 @@
 {
   "name": "@chien-hoang-2206/erp-theme-test-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple library",
   "scripts": {
     "rollup": "rollup -c"
